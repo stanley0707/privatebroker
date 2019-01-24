@@ -21,8 +21,8 @@ the privateclass decorator accepts a class whose specific methods must be hidden
 The broker returns the necessary function (attribute of the private method) by taking two arguments: the class (from example A (!! not self !!)) and the name of the method (the string is required).
 
 To get the result of a private method, you need to refer to the attribute of the private method and pass it the arguments expected by the private method.
-`
-``python
+
+```python
 
 from privatebroker import privateclass, privatemethod
 
@@ -72,7 +72,10 @@ print(b.b_public())
 
 ## Contributing
 
-Important! This is the first test version and so far the expediency of using this module is questionable! Traction requests are welcome. For major changes, please first open the question to discuss what you would like to change.
+Important!
+This is the first test version and so far the expediency of using this module is questionable!
+Traction requests are welcome. For major changes, please first open the question to discuss
+what you would like to change.
 
 Please remember to update the tests as needed.
 
