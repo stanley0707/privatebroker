@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: privatebroker
+Version: 0.0.1
+Summary: UNKNOWN
+Home-page: https://github.com/stanley0707/privatebroker.git
+Author: Stas Shilov
+Author-email: shilowstanisalw@gamail.com
+License: UNKNOWN
+Description: Description
+        ===========
+        
+        Test version of private mrthod for python.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
